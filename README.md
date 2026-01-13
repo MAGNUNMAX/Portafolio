@@ -62,7 +62,7 @@ The **Download-CV** button allows visitors to download my résumé in PDF format
 ---
 
 ## 📬 Contact
-- **Email:** pedro.segui@example.com  
+- **Email:** pedro.segui.dev@gmail.com  
 - **LinkedIn:** [linkedin.com/in/pedrosegui](https://linkedin.com/in/pedrosegui)  
 - **GitHub:** [github.com/pedrosegui](https://github.com/pedrosegui)
 
