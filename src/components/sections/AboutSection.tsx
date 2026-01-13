@@ -3,12 +3,16 @@ import { Badge } from "@/components/ui/badge";
 
 const skills = [
   "React",
-  "Javascript",
-  "Node.js",
-  "PostgreSQL",
   "Html",
   "CSS",
-  "Bootstrap"
+  "Bootstrap",
+  "Javascript",
+  "Node.js",
+  "Express",
+  "API Rest",
+  "PostgreSQL"
+  
+  
 ];
 
 export default function AboutSection() {
