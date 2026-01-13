@@ -1,0 +1,41 @@
+{
+  "placeholderImages": [
+    {
+      "id": " - Online Store",
+      "name":"imagen Real",
+      "description": "A sleek and modern e-commerce platform with a focus on user experience.",
+      "imageUrl": "/imagen/imagenPC.png",
+      "imageHint": "ecommerce website",
+      "Github":"https://github.com/MAGNUNMAX/Online-Store.git",
+      "Live":"not available"
+    },
+    {
+      "id": " - Business Invoice",
+      "name":"imagen Real",
+      "description": "An intuitive Invoice dashboard for business intelligence.",
+     "imageUrl":"/imagen/invoicePCimage.png",
+      "imageHint": "data dashboard",
+      "Github":"https://github.com/MAGNUNMAX/Invoice.git",
+      "Live":"https://invoice-p8um.onrender.com/"
+    },
+    {
+      "id": " - MP3 YouTube Downloader",
+      "name":"imagen Real",
+      "description": "A conceptual design for a descktop application.",
+      "imageUrl":"/imagen/mp3Downloader.png",
+      "imageHint": "mobile app",
+      "Github":"https://github.com/MAGNUNMAX/MP3-Downloader.git",
+      "Live":"https://magnunmax.github.io/MP3-Downloader/"
+    },
+    {
+      "id": " - Cacino Desktop Game",
+      "name":"imagen Real",
+      "description": "A fun descktop game .",
+      "imageUrl": "/imagen/casinoImagePC.png",
+      "imageHint": "branding identity",
+      "Github":"https://github.com/MAGNUNMAX/CASINO.git",
+      "Live":"https://magnunmax.github.io/CASINO/"
+    }
+  ]
+}
+
