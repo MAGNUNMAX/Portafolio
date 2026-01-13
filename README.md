@@ -32,9 +32,9 @@ In the project directory, you can run:
 ## 📁 Project Structure
 
 /PORTFOLIO ├── public/ 
- # Static files (includes CV.pdf) ├── src/             
- # Main source code ├── .next/           
- # Auto-generated production build ├── tailwind.config.ts ├── next.config.ts ├── tsconfig.json └── package.json
+ - Static files (includes CV.pdf) ├── src/             
+ - Main source code ├── .next/           
+ - Auto-generated production build ├── tailwind.config.ts ├── next.config.ts ├── tsconfig.json └── package.json
 
 
 
