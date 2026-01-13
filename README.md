@@ -32,6 +32,7 @@ In the project directory, you can run:
 ## 📁 Project Structure
 
 /PORTFOLIO 
+```
  ├── public/ 
  - Static files (includes CV.pdf) 
  ├── src/             
@@ -42,7 +43,7 @@ In the project directory, you can run:
  ├── next.config.ts 
  ├── tsconfig.json 
  └── package.json
-
+```
 
 
 ---
