@@ -4,7 +4,7 @@ import "./globals.css";
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: "ProfolioCraft",
+  title: "Pedro's Portfolio",
   description: "Creative Developer & UI/UX Designer Portfolio",
 };
 
