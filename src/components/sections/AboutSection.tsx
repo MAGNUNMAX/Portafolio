@@ -10,8 +10,10 @@ const skills = [
   "Node.js",
   "Express",
   "API Rest",
-  "PostgreSQL"
-  
+  "PostgreSQL",
+  "Git",
+  "GitHub",
+  "postman"
   
 ];
 
